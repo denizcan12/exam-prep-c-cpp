@@ -1,0 +1,13 @@
+# Build outputs
+*.o
+*.out
+*.exe
+*.dSYM/
+
+# Local/editor files
+.DS_Store
+.vscode/
+tempCodeRunnerFile
+
+# Course handouts and local binaries are intentionally not tracked in this repo.
+*.pdf
