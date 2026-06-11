@@ -1,6 +1,6 @@
 //Soru: Count Vector
 //Scrivere una funzione ricorsiva che dati due array conteggi il numero di volte che il primo array appare nel secondo.
-//(Turkish translation): Given two arrays, write a recursive function that counts how many times the first array appears inside the second array.
+//Exercise: Given two arrays, write a recursive function that counts how many times the first array appears inside the second array.
 //Example:
 //int v1[] = {1, 3, 1};
 //int v2[] = {1, 3, 1, 3, 1, 1, 3, 1, 7};

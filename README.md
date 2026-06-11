@@ -6,14 +6,10 @@ This repository collects C and C++ practice work from an exam-preparation period
 
 - `c/` - C exam-preparation exercises, mainly linked-list and recursion problems.
 - `cpp/` - C++ class practice, slide exercises, recursion/vector/string exercises, and early project work.
-- `REVIEW_NOTES.md` - files intentionally left out of the first publish-ready version and why.
 
 ## Notes
 
-- Compiled binaries, local editor files, macOS metadata, and course PDF files are intentionally excluded.
-- Turkish learning comments were translated to English where they appeared in source comments.
-- The code intentionally preserves the original practice style. Only obvious packaging cleanup was applied in this publish-ready copy.
-- A few very incomplete or duplicate draft files were left out of the initial repo; see `REVIEW_NOTES.md`.
+This repository contains small exercises I prepared while studying for C and C++ exams. The examples are intentionally compact and practice-focused.
 
 ## Building Examples
 
